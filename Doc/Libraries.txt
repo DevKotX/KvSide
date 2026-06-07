@@ -1,0 +1,52 @@
+#Framework Core Languages
+C++
+Java
+Obj-c
+Obj-c++
+
+#Framework CLI Languages
+GO
+Rust
+C/C++
+
+#Window Libraries
+GLFW
+SDL2
+SFML
+Sokol
+
+#Canvas Libraries
+OpenGL
+Vulkan
+WebGPU
+
+#DataBase Languages
+PostgreSQL
+SQLite3
+MySQL
+
+#Network Libraries
+Aiso
+libcurl
+uWebSocket
+httplib
+
+#UI Libraries
+AGG
+Skia
+Cairo
+Pixman
+
+#Media Libraries
+--Fonts--
+FreeType
+HarfBuzz
+--Videos--
+libavcodec
+libavformat
+--Sounds--
+miniaudio
+OpenAL
+--Pictures--
+std_image
+FreeImage

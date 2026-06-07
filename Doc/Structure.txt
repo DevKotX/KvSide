@@ -1,0 +1,30 @@
+KvSide/
+├───Assets/
+│   ├───Animations/
+│   ├───Build/
+│   ├───Code/
+│   ├───Data/
+│   ├───Fonts/
+│   ├───Icons/
+│   ├───Locales/
+│   ├───Pictures/
+│   ├───Shaders/
+│   ├───Sounds/
+│   └───Themes/
+├───CLI/
+│   ├───kvs/
+│   └───pycx/
+├───Core
+│   ├───KvCore/
+│   ├───KvServices/
+│   └───UX-ToolKit/
+├───Doc/
+│   ├───Libraries.txt
+│   └───Structure.txt
+├───Src/
+│   ├───KivSidx/
+│   ├───KvDesk/
+│   ├───KvPhone/
+│   └───KvSide/
+├──.gitignote
+└──README.md 
