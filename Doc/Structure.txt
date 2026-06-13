@@ -8,23 +8,103 @@ KvSide/
 │   ├───Icons/
 │   ├───Locales/
 │   ├───Pictures/
+│   ├───Services/
 │   ├───Shaders/
 │   ├───Sounds/
 │   └───Themes/
 ├───CLI/
 │   ├───kvs/
-│   └───pycx/
-├───Core
+│   ├───pycx/
+│   ├───vterm/
+│   ├───build.bat
+│   ├───build.sh
+│   └───build.zsh
+├───Core/
 │   ├───KvCore/
+│   │   ├───include/
+│   │   │   ├───Canvas/
+│   │   │   ├───Common/
+│   │   │   ├───Event/
+│   │   │   ├───Media/
+│   │   │   ├───Platform/
+│   │   │   ├───Resource/
+│   │   │   ├───Utils/
+│   │   │   └───Window/
+│   │   ├───src/
+│   │   │   ├───Canvas/
+│   │   │   ├───Common/
+│   │   │   ├───Event/
+│   │   │   ├───Media/
+│   │   │   ├───Platform/
+│   │   │   ├───Resource/
+│   │   │   ├───Utils/
+│   │   │   └───Window/
+│   │   └───CMakeLists.txt
 │   ├───KvServices/
-│   └───UX-ToolKit/
+│   │   ├───include/
+│   │   │   ├───Async/
+│   │   │   ├───Common/
+│   │   │   ├───DataBase/
+│   │   │   ├───Network/
+│   │   │   ├───Platform/
+│   │   │   ├───Resource/
+│   │   │   ├───Sockets/
+│   │   │   └───Utils/
+│   │   ├───src/
+│   │   │   ├───Async/
+│   │   │   ├───Common/
+│   │   │   ├───DataBase/
+│   │   │   ├───Network/
+│   │   │   ├───Platform/
+│   │   │   ├───Resource/
+│   │   │   ├───Sockets/
+│   │   │   └───Utils/
+│   │   └───CMakeLists.txt
+│   ├───UX-ToolKit/
+│   │   ├───include/
+│   │   │   ├───Common/
+│   │   │   ├───GUI/
+│   │   │   ├───Platform/
+│   │   │   ├───Readerer/
+│   │   │   ├───Resource/
+│   │   │   └───Utils/
+│   │   ├───src/
+│   │   │   ├───Common/
+│   │   │   ├───GUI/
+│   │   │   ├───Platform/
+│   │   │   ├───Readerer/
+│   │   │   ├───Resource/
+│   │   │   └───Utils/
+│   │   └───CMakeLists.txt
+│   ├───build.bat
+│   ├───build.sh
+│   ├───build.zsh
+│   └───LICENSE
 ├───Doc/
+│   ├───CLI/
+│   │   ├───kvs/
+│   │   │   ├───Commands.txt
+│   │   │   └───Document.txt
+│   │   ├───pycx/
+│   │   │   ├───Commands.txt
+│   │   │   └───Document.txt
+│   │   └───vterm/
+│   │       ├───Commands.txt
+│   │       └───Document.txt
 │   ├───Libraries.txt
 │   └───Structure.txt
 ├───Src/
-│   ├───KivSidx/
-│   ├───KvDesk/
-│   ├───KvPhone/
-│   └───KvSide/
-├──.gitignote
-└──README.md 
+│   ├───Py/
+│   │   ├───KivSidx/
+│   │   ├───KvDesk/
+│   │   ├───KvPhone/
+│   │   ├───KvSide/
+│   │   ├───pyproject.toml
+│   │   └───setup.py
+│   ├───build.bat
+│   ├───build.sh
+│   ├───build.zsh
+│   └───LICENSE
+├───.gitignote
+├───makefile
+└───README.md

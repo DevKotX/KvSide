@@ -32,7 +32,7 @@ uWebSocket
 httplib
 
 #UI Libraries
-AGG
+AGG #Anti-Grain Geometry
 Skia
 Cairo
 Pixman

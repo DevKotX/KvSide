@@ -1,3 +1,27 @@
+#Assets files
+/Assets/Build/Logs/*
+/Assets/Build/Bin/CLIs/*
+/Assets/Build/Bin/Libs/*
+/Assets/Build/SDKs/Ios/*
+/Assets/Build/SDKs/BSD/*
+/Assets/Build/SDKs/Linux/*
+/Assets/Build/SDKs/MacOS/*
+/Assets/Build/SDKs/Android/*
+/Assets/Build/SDKs/Windows/*
+!/Assets/Build/Logs/.gitkeep
+!/Assets/Build/Bin/CLIs/.gitkeep
+!/Assets/Build/Bin/Libs/.gitkeep
+!/Assets/Build/SDKs/Ios/.gitkeep
+!/Assets/Build/SDKs/BSD/.gitkeep
+!/Assets/Build/SDKs/Linux/.gitkeep
+!/Assets/Build/SDKs/MacOS/.gitkeep
+!/Assets/Build/SDKs/Android/.gitkeep
+!/Assets/Build/SDKs/Windows/.gitkeep
+
+#python files
 **/__pycache__/
 *.py.class
 *.py[cod]
+
+#IDEs Files
+.vscode/
