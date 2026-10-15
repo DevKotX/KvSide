@@ -1,1 +1,0 @@
-echo "Starting to build CLI Tools for Windows"

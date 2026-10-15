@@ -1,0 +1,39 @@
+#Framework Files
+*.kvs
+*.kss
+*.uix
+*.cnv
+*.Kiv
+*.kiv4
+*.kivx
+*.uix4
+*.cnv4
+
+#Media Files
+*.zcnv #Zip Canvas
+*.fcnv #Font Canvas
+*.icnv #Icon Canvas
+*.scnv #Sound Canvas
+*.vcnv #Video Canvas
+*.mcnv #Model Canvas
+*.tcnv #Textures Canvas
+*.acnv #Animation Canvas
+*.kcs #KvSide-Canvas-Shader
+
+#Binary Files
+*.klib #KvSide-Library
+*.kks #KvSide-Key-Store
+*.kbb #KvSide-Build-Bundle
+*.krb #KvSide-Runtime-Bundle
+*.klb #KvSide-Library-Bundle
+
+#Build Files
+kvs.env
+kvs.mod
+RunBundle.ksm
+LibBundle.ksm
+TasksFile.ksm
+
+#Other Files
+*.kdoc #KvSide-Document
+*.kcll #KvSide-Canvas-License-Lock

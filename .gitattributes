@@ -1,0 +1,20 @@
+#copyright (c) 2026 DevKotX
+#Codes Files
+*.java text eol=lf
+*.hxx text eol=lf
+*.cxx text eol=lf
+*.py text eol=lf
+*.mm text eol=lf
+*.m text eol=lf
+
+#Doc Files
+LICENSE text eol=lf
+README text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+
+#Build Files
+CMakeLists.txt text eol=lf
+cmakelists.txt text eol=lf
+Pom.xml text eol=fl
+pom.xml text eol=fl

@@ -1,0 +1,53 @@
+#Main Shortcuts
+IO:/
+Res:/
+SAF:/
+Web:/
+Home:/
+Data:/
+Root:/
+Asset:/
+
+#IO Shortcuts
+IO@USB@{Name}:/
+IO@DVD@{Name}:/
+IO@Dev@{Name}:/
+IO@USB:/
+IO@DVD:/
+IO@Dev:/
+
+#Res Shortcuts
+Res@Asset:/
+Res@Data:/
+Res@Src:/
+Res@UX:/
+
+#SAF Shortcuts
+SAF@Folder:/
+SAF@File:/
+
+#Web Shortcuts
+Web@HTTPS:/
+Web@HTTP:/
+Web@FTPS:/
+Web@FTP:/
+
+#Home Shortcuts for (Windows, MacOS, Linux)
+Home@{User}@Download:/
+Home@{User}@Picture:/
+Home@{User}@Video:/
+Home@{User}@Music:/
+Home@{User}@DCIM:/
+Home@{User}@Desk:/
+Home@{User}@Doc:/
+Home@{User}:/
+Home@Users:/
+Home@Desk:/
+
+#Home Shortcuts
+Home@Download:/
+Home@Picture:/
+Home@Video:/
+Home@Music:/
+Home@DCIM:/
+Home@Doc:/

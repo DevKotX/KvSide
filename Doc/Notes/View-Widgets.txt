@@ -1,0 +1,7 @@
+#View Widgets for 1.0
+XWebView
+XDocView
+XTerminal
+XMediaView
+XSmartEditor
+XSmartCamera

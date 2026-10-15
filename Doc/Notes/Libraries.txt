@@ -1,0 +1,55 @@
+#Framework Core Languages
+C++
+Java
+Obj-c
+Obj-c++
+
+#Framework CLI Languages
+kvs (Go)
+pycx (C,C++,Rust)
+vterm (Go,C++)
+
+#Window Libraries
+GLFW
+SDL2
+SFML
+Sokol
+
+#Canvas Libraries
+OpenGL
+Vulkan
+WebGPU
+
+#DataBase Languages
+PostgreSQL
+SQLite3
+MySQL
+
+#Network Libraries
+Aiso
+libcurl
+uWebSocket
+httplib
+
+#GUI Libraries
+AGG #Anti-Grain Geometry
+Skia
+Cairo
+Pixman
+
+#Media Libraries
+--Zip--
+libzip
+miniz
+--Fonts--
+FreeType
+HarfBuzz
+--Videos--
+libavcodec
+libavformat
+--Sounds--
+miniaudio
+OpenAL
+--Pictures--
+std_image
+FreeImage
