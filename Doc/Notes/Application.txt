@@ -1,0 +1,56 @@
+MyApplication/
+├───KBuild/
+│   ├───App/
+│   │   ├───Debug/ #Builded OutPuts
+│   │   │   ├───Darwin/
+│   │   │   ├───Droid/
+│   │   │   ├───UnixLike/
+│   │   │   ├───Webside/
+│   │   │   ├───Windows/
+│   │   │   ├───myapp.kbb #Builded OutPut
+│   │   │   └───myapp.krb #Builded OutPut
+│   │   └───Release/ #Builded OutPuts
+│   │       ├───Darwin/
+│   │       ├───Droid/
+│   │       ├───UnixLike/
+│   │       ├───Webside/
+│   │       ├───Windows/
+│   │       ├───myapp.kbb #Builded OutPut
+│   │       └───myapp.krb #Builded OutPut
+│   ├───Cache/
+│   └───Config/
+│       ├───Builder/
+│       │   ├───Libraries.toml
+│       │   ├───Licelocl.kcll
+│       │   └───KeyStore.kks
+│       ├───Platforms/
+│       │   ├───Darwin/
+│       │   ├───Droid/
+│       │   ├───UnixLike/
+│       │   ├───Webside/
+│       │   └───Windows/
+│       └───builder.xml
+├───KRun/
+│   ├───.KvSide/ #Runtime OutPut
+│   │   ├───Cache/
+│   │   ├───Config/
+│   │   └───Logcat/
+│   ├───Asset/
+│   │   ├───AppIcon.icnv
+│   │   ├───StartTexture.tcnv
+│   │   └───kvs.mod
+│   ├───Data/
+│   │   ├───.Kvs/
+│   │   │   ├───Virtual_home/
+│   │   │   ├───Widvar.yaml
+│   │   │   └───Kvside.toml
+│   │   └───kvs.mod
+│   ├───Src/
+│   │   ├───Main.py
+│   │   └───kvs.mod
+│   └───UX/
+│       ├───Layout.kvs
+│       ├───Style.kss
+│       └───kvs.mod
+├───RunBundle.ksm
+└───Tasksfile.ksm

@@ -1,0 +1,21 @@
+#copyright (c) 2026 DevKotX
+
+# Build files
+.build/
+
+# Python files
+**/__pycache__/
+*.py.class
+*.py[cod]
+
+# IDEs files
+## VS Code
+.history/
+.vscode/
+
+## JetBrains
+.idea/
+*.iml
+*.iws
+*.ipr
+out/

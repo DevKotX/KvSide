@@ -1,0 +1,64 @@
+#Basic Widgets
+XLabel
+XButton
+XSwitch
+XListBox
+XTextView
+XLineView
+XStateBtn
+XLineEdit
+XTextEdit
+XCodeEdit
+XCheckBox
+XRadioBtn
+
+#Variables Widgets
+XTumbler
+XSpinBox
+XSliderBar
+XRangerBar
+XDailCircle
+XProgressBar
+
+#Viewer Widgets
+XIcon
+XIconBtn
+XCodeBox
+XTreeItem
+XTreeView
+XFileView
+XSoundView
+XVideoView
+XPictureView
+
+#Side Widgets
+XBubble
+XToolBar
+XSideBar
+XSplitter
+XAccordions
+XScrollView
+
+#Latout Widgets
+XBoxLayout
+XGridLayout
+XFloatLayout
+XStackLayout
+XAnchorLayout
+
+#Screen Widgets
+XScreen
+XTabItem
+XTabView
+XStackItem
+XStackView
+XScreenView
+
+#Window & Popup Widgets
+XPopup
+XDialog
+XScatter
+XWindow
+XBoxWindow
+XMessWindow
+XMainWindow

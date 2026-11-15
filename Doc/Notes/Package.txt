@@ -1,0 +1,8 @@
+MyPKG/
+├───.KvSide/
+│   ├───Cache/
+│   ├───Config/
+│   └───Logcat/
+├───KPKG/
+├───builder.xml
+└───Package.ksm
